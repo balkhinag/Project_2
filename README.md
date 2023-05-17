@@ -2,6 +2,7 @@
 Основной ноутбук - Project-2.ipynb
 
 Данные , использованные в проекте, хранятся под управлением СУБД PostgreSQL. Для входа в базу использованы данные: 
+
     DBNAME = 'project_sql'
     USER = 'skillfactory'
     PASSWORD = 'cCkxxLVrDE8EbvjueeMedPKt'
